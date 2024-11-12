@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Subway - Fuxing Heping Store",
+    "zone": "Taipei City",
+    "addr": "No. 203, Section 2, Heping East Road, Da'an District, Taipei City",
+    "tel": "02-27054132",
+    "lat": 25.0252807,
+    "lng": 121.5423847
+  },
+  {
+    "name": "Subway - Yonghe Yong'an Store",
+    "zone": "New Taipei City",
+    "addr": "No. 413, Zhonghe Road, Yonghe District, New Taipei City",
+    "tel": "02-29281007",
+    "lat": 25.000633,
+    "lng": 121.5091374
+  },
+  {
+    "name": "Subway - Wenxin Chongde Store",
+    "zone": "Taichung City",
+    "addr": "1F, No. 692-1, Section 4, Wenxin Road, Beitun District, Taichung City",
+    "tel": "04-22365155",
+    "lat": 24.1717531,
+    "lng": 120.6871552
+  },
+  {
+    "name": "Subway - Kaohsiung Bo'ai Restaurant",
+    "zone": "Kaohsiung City",
+    "addr": "No. 364, Bo'ai 2nd Road, Zuoying District, Kaohsiung City",
+    "tel": "07-5566501",
+    "lat": 22.6650703,
+    "lng": 120.3035746
+  },
+  {
+    "name": "Subway - Pingtung Minsheng Restaurant",
+    "zone": "Pingtung County",
+    "addr": "No. 325, Minsheng Road, Pingtung City",
+    "tel": "08-7332888",
+    "lat": 22.6704813,
+    "lng": 120.4905265
+  }
+]
